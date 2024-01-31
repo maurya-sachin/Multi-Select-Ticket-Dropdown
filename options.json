@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "value": "Mercedes"
+    },
+    {
+        "id": 2,
+        "value": "Volvo"
+    },
+    {
+        "id": 3,
+        "value": "Hilux"
+    },
+    {
+        "id": 4,
+        "value": "Corsa"
+    },
+    {
+        "id": 5,
+        "value": "BMW"
+    },
+    {
+        "id": 6,
+        "value": "Ferrari"
+    },
+    {
+        "id": 7,
+        "value": "Gol"
+    },
+    {
+        "id": 8,
+        "value": "Toyota"
+    },
+    {
+        "id": 9,
+        "value": "Chevrolet"
+    },
+    {
+        "id": 10,
+        "value": "Volkswagen"
+    },
+    {
+        "id": 11,
+        "value": "Ford"
+    },
+    {
+        "id": 12,
+        "value": "Honda"
+    },
+    {
+        "id": 13,
+        "value": "Audi"
+    },
+    {
+        "id": 14,
+        "value": "Lamborghini"
+    },
+    {
+        "id": 15,
+        "value": "Porsche"
+    },
+    {
+        "id": 16,
+        "value": "Nissan"
+    },
+    {
+        "id": 17,
+        "value": "Kia"
+    },
+    {
+        "id": 18,
+        "value": "Hyundai"
+    },
+    {
+        "id": 19,
+        "value": "Subaru"
+    },
+    {
+        "id": 20,
+        "value": "Mazda"
+    }
+]
