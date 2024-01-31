@@ -1,82 +1,122 @@
 [
     {
         "id": 1,
-        "value": "Mercedes"
+        "value": "Smartphone",
+        "brand": "Apple",
+        "price": 999
     },
     {
         "id": 2,
-        "value": "Volvo"
+        "value": "Laptop",
+        "brand": "Dell",
+        "price": 1299
     },
     {
         "id": 3,
-        "value": "Hilux"
+        "value": "Smartwatch",
+        "brand": "Samsung",
+        "price": 349
     },
     {
         "id": 4,
-        "value": "Corsa"
+        "value": "Headphones",
+        "brand": "Sony",
+        "price": 199
     },
     {
         "id": 5,
-        "value": "BMW"
+        "value": "Tablet",
+        "brand": "Microsoft",
+        "price": 799
     },
     {
         "id": 6,
-        "value": "Ferrari"
+        "value": "Camera",
+        "brand": "Canon",
+        "price": 599
     },
     {
         "id": 7,
-        "value": "Gol"
+        "value": "Fitness Tracker",
+        "brand": "Fitbit",
+        "price": 129
     },
     {
         "id": 8,
-        "value": "Toyota"
+        "value": "Gaming Console",
+        "brand": "Sony",
+        "price": 499
     },
     {
         "id": 9,
-        "value": "Chevrolet"
+        "value": "E-reader",
+        "brand": "Amazon",
+        "price": 119
     },
     {
         "id": 10,
-        "value": "Volkswagen"
+        "value": "Wireless Speaker",
+        "brand": "Bose",
+        "price": 299
     },
     {
         "id": 11,
-        "value": "Ford"
+        "value": "Smart Bulb",
+        "brand": "Philips",
+        "price": 49
     },
     {
         "id": 12,
-        "value": "Honda"
+        "value": "Coffee Maker",
+        "brand": "Keurig",
+        "price": 129
     },
     {
         "id": 13,
-        "value": "Audi"
+        "value": "Electric Toothbrush",
+        "brand": "Oral-B",
+        "price": 89
     },
     {
         "id": 14,
-        "value": "Lamborghini"
+        "value": "Robot Vacuum Cleaner",
+        "brand": "iRobot",
+        "price": 349
     },
     {
         "id": 15,
-        "value": "Porsche"
+        "value": "Air Purifier",
+        "brand": "Dyson",
+        "price": 499
     },
     {
         "id": 16,
-        "value": "Nissan"
+        "value": "Wireless Router",
+        "brand": "Linksys",
+        "price": 149
     },
     {
         "id": 17,
-        "value": "Kia"
+        "value": "External Hard Drive",
+        "brand": "Seagate",
+        "price": 99
     },
     {
         "id": 18,
-        "value": "Hyundai"
+        "value": "Printer",
+        "brand": "HP",
+        "price": 199
     },
     {
         "id": 19,
-        "value": "Subaru"
+        "value": "Bluetooth Earbuds",
+        "brand": "Jabra",
+        "price": 149
     },
     {
         "id": 20,
-        "value": "Mazda"
+        "value": "Portable Charger",
+        "brand": "Anker",
+        "price": 39
     }
 ]
