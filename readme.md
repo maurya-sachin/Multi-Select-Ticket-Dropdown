@@ -2,6 +2,9 @@
 
 This project provides a customizable autocomplete component implemented in HTML, CSS, and JavaScript. It allows users to select multiple options from a dropdown menu with autocomplete suggestions.
 
+##Demo
+[View Demo](https://maurya-sachin.github.io/Multi-Select-Ticket-Dropdown/)
+
 ## Features
 
 - **Autocomplete Suggestions**: As the user types in the input field, the component provides autocomplete suggestions based on the available options.
